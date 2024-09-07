@@ -1,5 +1,6 @@
 # Movie Search App 🎬
 A movie search application that allows users to search for movies, displaying details like title, poster, and release year. The app fetches data from the OMDB (Open Movie Database) API.
+https://princekaif.github.io/movie-search-app/
 
 ## Features
 - 🎞 Movie Search: Search for movies by title.
